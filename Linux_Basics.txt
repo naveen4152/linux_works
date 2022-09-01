@@ -1,0 +1,7 @@
+- Linux is open source os. It has multiple distributions, those are ubuntu, debian, linux mint ,Redhat enterprises
+  ,centos and fedora.
+
+- APT and YUM are package managers in linux distros, ApT(Advanced package Tool is Used in Ubuntu, linux mint and
+  Debian etc. YUM (Yellow dog updater Modified) is used for Installing, removing and updating packages in redhat, centos.
+
+-
