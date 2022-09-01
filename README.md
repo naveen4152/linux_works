@@ -1,2 +1,2 @@
 # linux_works
-This repo will consists of all Linux fundamentals.
+This repo will consists of all Linux fundamentals & commands.
